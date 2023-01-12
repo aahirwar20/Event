@@ -2,6 +2,11 @@
 #
 .DS_Store
 
+#
+ios/
+
+android/
+
 # Xcode
 #
 build/
@@ -53,3 +58,4 @@ buck-out/
 .expo/
 web-build/
 dist/
+#
